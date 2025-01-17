@@ -8,7 +8,7 @@
 - setup environment
 
 ```
-git clone https://github.com/asuka-405/blog
+git clone https://github.com/maxime1109/blog
 npm install yarn --location=global
 yarn install
 ```
